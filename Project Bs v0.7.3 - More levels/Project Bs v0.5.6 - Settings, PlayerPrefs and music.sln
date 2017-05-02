@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Bs v0.5.6 - Settings, PlayerPrefs and music", "Project Bs v0.5.6 - Settings, PlayerPrefs and music.csproj", "{15D8EAB8-998F-D440-499F-769BA48BE263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D8EAB8-998F-D440-499F-769BA48BE263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D8EAB8-998F-D440-499F-769BA48BE263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D8EAB8-998F-D440-499F-769BA48BE263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D8EAB8-998F-D440-499F-769BA48BE263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
